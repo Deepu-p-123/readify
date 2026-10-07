@@ -19,3 +19,6 @@ uploads/
 .idea/
 .DS_Store
 Thumbs.db
+"venv/" 
+"__pycache__/" 
+"*.env" 
