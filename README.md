@@ -46,3 +46,4 @@ python agent.py
 - Gemini model names change often. If you get a 404, list the models your key can use and update the names in `agent.py` (`llm` and `OCR_MODELS`).
 - Chat memory keeps the last 5 messages (`MEMORY_SIZE` in `agent.py`).
 - The calculator uses `eval`, which is fine for local use but not safe to expose to untrusted users.
+"# readify_agent_bot" 
