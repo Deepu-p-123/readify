@@ -4,6 +4,9 @@ A chatbot built with LangChain and Gemini. You upload a document and ask questio
 
 It reads PDF, Word, text, CSV and image files. Scanned PDFs and PDFs made with "Microsoft Print to PDF" have no text layer, so the bot renders each page as an image and reads it with Gemini OCR. If one Gemini model is overloaded, it tries the next one.
 
+## 🚀 Live Demo
+Try it here: [Readify Chatbot](https://readifychatbot.streamlit.app/)
+
 ## Setup
 
 1. Clone the repo and create a virtual environment:
