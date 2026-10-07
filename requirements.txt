@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+pypdf
+pymupdf
+python-docx
+langchain-core
+langchain-classic
+langchain-google-genai
