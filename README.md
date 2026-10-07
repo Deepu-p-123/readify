@@ -47,3 +47,4 @@ python agent.py
 - Chat memory keeps the last 5 messages (`MEMORY_SIZE` in `agent.py`).
 - The calculator uses `eval`, which is fine for local use but not safe to expose to untrusted users.
 "# readify_agent_bot" 
+"# readify_agent_bot" 
